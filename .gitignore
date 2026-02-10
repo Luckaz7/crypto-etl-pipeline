@@ -1,0 +1,28 @@
+# Byte-compiled  optimized  DLL files
+__pycache__
+.py[cod]
+$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv
+env
+.env
+
+# Google Colab  Local Drive backups
+contentdrive
+
+# Databricks  IDE specific
+.databricks
+.idea
+.vscode
+
+# Data files (Evite subir o CSV com milhares de linhas para o Github)
+.csv
+.json
+.xlsx
+
+# Logs
+.log
