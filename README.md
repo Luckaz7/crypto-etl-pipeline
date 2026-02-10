@@ -43,6 +43,7 @@ O projeto é dividido em funções modulares seguindo os princípios de clean co
 ## 📈 Exemplo de Dados Capturados
 
 | moeda | simbolo | preco | data | hora |
+| :--- | :--- | :--- | :--- | :---: |
 | Bitcoin | BTC | 52140.50 | 09-02-2026 | 14:00:05 |
 | Ethereum | ETH | 2850.12 | 09-02-2026 | 14:00:05 |
 
